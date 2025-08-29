@@ -1,4 +1,4 @@
-# 🌟 Profile Card Website
+# 🌟 Social Link Card
 
 A simple and modern **Profile Card Website** built with **HTML** and **CSS**.  
 It features your profile picture, name, bio, and links to your social profiles (GitHub, LinkedIn, LeetCode, GeeksforGeeks, Twitter) with a sleek dark theme.
